@@ -1,9 +1,0 @@
-Collecting flask
-  Downloading Flask-1.1.2-py2.py3-none-any.whl (94 kB)
-Requirement already satisfied: click>=5.1 in /workspace/.pip-modules/lib/python3.8/site-packages (from flask) (7.1.2)
-Requirement already satisfied: itsdangerous>=0.24 in /workspace/.pip-modules/lib/python3.8/site-packages (from flask) (1.1.0)
-Requirement already satisfied: Jinja2>=2.10.1 in /workspace/.pip-modules/lib/python3.8/site-packages (from flask) (2.10.3)
-Requirement already satisfied: Werkzeug>=0.15 in /workspace/.pip-modules/lib/python3.8/site-packages (from flask) (0.15.6)
-Requirement already satisfied: MarkupSafe>=0.23 in /home/gitpod/.pyenv/versions/3.8.3/lib/python3.8/site-packages (from Jinja2>=2.10.1->flask) (1.1.1)
-Installing collected packages: flask
-Successfully installed flask-1.1.2
